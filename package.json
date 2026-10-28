@@ -1,0 +1,25 @@
+{
+  "name": "@lvlilan/ajs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "type": "module",
+  "exports": "./src/index.js",
+  "files": [
+    "src"
+  ],
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lvlilan/ajs.git"
+  },
+  "homepage": "https://github.com/lvlilan/ajs#readme",
+  "bugs": {
+    "url": "https://github.com/lvlilan/ajs/issues"
+  },
+  "author": "",
+  "license": "ISC"
+}
